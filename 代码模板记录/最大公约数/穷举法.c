@@ -7,7 +7,8 @@ int exhgcd(int a,int b) {
 		b = tmp;
 	}//a>b
 	if (a == 0)return b;
-	if (b == 0)return a;
+	else if (b == 0)return a;
+	else if(a == b)return a;
 	for (int i = b; i >= 1; i--) {
 		if (a % i == 0 && b % i == 0)return i;
 	}
