@@ -8,8 +8,8 @@ int eucgcd(int a,int b) {
 	}//a>b
 	if (a == 0)return b;
 	else if (b == 0)return a;
-	else if (a % b == 0)return b;
 	else if(a == b)return a;
+	else if (a % b == 0)return b;
 	else return eucgcd(a, a % b);
 }
 
