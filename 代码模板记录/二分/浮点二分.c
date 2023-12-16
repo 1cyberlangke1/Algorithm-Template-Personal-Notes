@@ -5,7 +5,7 @@ double x = 2;//被开方的数
 
 //判断二分出的答案是否符合要求
 int check(double num) {
-	return x > num * num;
+	return x > num * num;//比较超过返回1, 否则返回0
 }
 //二分
 double float_bsearch(double l, double r)//左右边界
