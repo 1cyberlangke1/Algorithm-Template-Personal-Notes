@@ -1,12 +1,12 @@
 #include<stdio.h>
 
 //排序数组下标[l,r]之间的数
-void qsort(int arr[],int l,int r) {
+void qsort(int arr[], int l, int r) {
 	if (l >= r)return;
-	int x = arr[l + r >> 1], i = l, j = r;
+	int x = arr[l + r >> 1], i = l - 1, j = r + 1;
 	while (i < j) {
-		while (x > arr[i])i++;
-		while (x < arr[j])j--;
+		do i++; while (x > arr[i]);
+		do j--; while (x < arr[j]);
 		if (i < j) {
 			int tmp = arr[i];
 			arr[i] = arr[j];
@@ -15,6 +15,7 @@ void qsort(int arr[],int l,int r) {
 	}
 	qsort(arr, l, j); qsort(arr, j + 1, r);
 }
+
 
 int main() {
 	//使用例
