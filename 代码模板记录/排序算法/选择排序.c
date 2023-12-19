@@ -14,7 +14,7 @@ void ssort(int arr[],int n) {
 }
 int main() {
 	//使用例
-	int arr[10] = { 10，9,8,7,6,5,4,3,2,1 };
+	int arr[10] = { 10,9,8,7,6,5,4,3,2,1 };
 	ssort(arr,10);
 	for (int i = 0; i < 10; i++)printf("%d ", arr[i]);
 }
