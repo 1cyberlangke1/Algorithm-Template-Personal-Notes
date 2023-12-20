@@ -20,7 +20,7 @@
 >[【公式法】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/commit/6eac3a9f2e87bf1ed0e17f55cf60ea4064e03f26)[【资料】](https://baike.baidu.com/item/%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/6192375)  
 ## 二分  
 > [【整数二分】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E4%BA%8C%E5%88%86/%E6%95%B4%E6%95%B0%E4%BA%8C%E5%88%86.c)[【资料】](https://blog.csdn.net/Weraphael/article/details/128839976)  
-> [【浮点二分】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E4%BA%8C%E5%88%86/%E6%B5%AE%E7%82%B9%E4%BA%8C%E5%88%86.c)
+> [【浮点二分】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E4%BA%8C%E5%88%86/%E6%B5%AE%E7%82%B9%E4%BA%8C%E5%88%86.c)[【资料】](https://blog.csdn.net/Weraphael/article/details/128839976)  
 ## 前缀和  
 > [【一维前缀和】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/commit/255f1796570b699f4af61342b1b8e857fac132f7)[【资料】](https://blog.csdn.net/qq_62464995/article/details/126753578)  
 > [【二维前缀和】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E5%89%8D%E7%BC%80%E5%92%8C/%E4%BA%8C%E7%BB%B4%E5%89%8D%E7%BC%80%E5%92%8C.c)[【资料】](https://blog.csdn.net/qq_62464995/article/details/126753578)  
