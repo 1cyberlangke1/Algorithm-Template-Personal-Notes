@@ -25,4 +25,5 @@
 > [【一维前缀和】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/commit/255f1796570b699f4af61342b1b8e857fac132f7)[【资料】](https://blog.csdn.net/qq_62464995/article/details/126753578)  
 > [【二维前缀和】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E5%89%8D%E7%BC%80%E5%92%8C/%E4%BA%8C%E7%BB%B4%E5%89%8D%E7%BC%80%E5%92%8C.c)[【资料】](https://blog.csdn.net/qq_62464995/article/details/126753578)  
 ## 差分  
+> [【一维差分】](https://github.com/1cyberlangke1/Algorithm-Template-Personal-Notes/blob/main/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E8%AE%B0%E5%BD%95/%E5%B7%AE%E5%88%86/%E4%B8%80%E7%BB%B4%E5%B7%AE%E5%88%86.c)[【资料】](https://zhuanlan.zhihu.com/p/438781582)  
 > [【二维差分】]()[【资料】](https://zhuanlan.zhihu.com/p/439268614)
