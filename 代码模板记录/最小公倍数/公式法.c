@@ -2,16 +2,7 @@
 
 //辗转相除法求最大公约数
 int eucgcd(int a, int b) {
-	if (a < b) {
-		int tmp = a;
-		a = b;
-		b = tmp;
-	}//a>b
-	if (a == 0)return b;
-	else if (b == 0)return a;
-	else if (a == b)return a;
-	else if (a % b == 0)return b;
-	else return eucgcd(a, a % b);
+	return b ? eucgcd(b, a % b) : a;
 }
 
 //最大公约数×最小公倍数=两数之积
